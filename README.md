@@ -4,4 +4,4 @@ This project has the CSV files and AWS Lambda code from the AWS Data Engineer Pr
 
 ⸻
 
-I can also make a super short 2–3 line version for your GitHub README top section. Would you like that?
+
